@@ -1,0 +1,61 @@
+﻿  Main.cpp
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsString.h(87,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsString.h(118,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsString.h(119,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsString.h(135,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsString.h(140,33): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsString.h(152,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsString.h(289,33): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsString.h(420,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsString.h(468,26): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsDate.h(123,39): warning C4101: 'Second': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsDate.h(123,27): warning C4101: 'Hour': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsDate.h(123,32): warning C4101: 'Minute': unreferenced local variable
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsInputValidate.h(99,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsInputValidate.h(103,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsBook.h(37,84): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsAdmin.h(95,10): warning C4240: nonstandard extension used: access to 'clsAdmin::enMode' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\Users\MOHAMED\source\repos\Laibrary Management System\clsAdmin.h(13,10):
+      see declaration of 'clsAdmin::enMode'
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsUpdateAdminScreen.h(96,25): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file 'Main.cpp')
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsMember.h(112,10): warning C4240: nonstandard extension used: access to 'clsMember::enMode' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\Users\MOHAMED\source\repos\Laibrary Management System\clsMember.h(13,10):
+      see declaration of 'clsMember::enMode'
+  
+C:\Users\MOHAMED\source\repos\Laibrary Management System\clsBook.h(297,1): warning C4715: 'clsBook::Save': not all control paths return a value
+  Laibrary Management System.vcxproj -> C:\Users\MOHAMED\source\repos\Laibrary Management System\x64\Debug\Laibrary Management System.exe
